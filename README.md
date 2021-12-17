@@ -35,3 +35,4 @@ Validation for both input fields is implemented via custom hook useInput:
     export default useInput;`
  2 validation functions provided for name and email fields.
  Overall form validity is also checked to allow user form submission only if both inputs hold valid values.
+ After submission name and email are logged in the console.
